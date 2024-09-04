@@ -24,10 +24,10 @@ delete → deletar<br/>
 Http.cat ( Site para saber os significado dos erros em numeros)<br/>
 
 
-visual studio com os 2 documentos do drive -->
-→Comandos no vs code:
-→docker compose up
-→docker compose up ( vai dar um erro(mas é comum))
+visual studio com os 2 documentos do drive --> <br/>
+→Comandos no vs code:<br/>
+→docker compose up<br/>
+→docker compose up ( vai dar um erro(mas é comum))<br/>
 
 
 
