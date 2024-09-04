@@ -21,7 +21,7 @@ post → criar<br/>
 patch → criar<br/>
 delete → deletar<br/>
 <br/>
-Http.cat ( Site para saber os significado dos Code)
+Http.cat ( Site para saber os significado dos erros em numeros)<br/>
 
 
 
