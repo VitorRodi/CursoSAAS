@@ -32,6 +32,7 @@ Passo a passo VsCode com os Arquivos da Pasta Link --> <br/>
 →Criar arquivo Main.js<br/>
 <br/> Rodar Terminal VsCode<br/>
 →docker-compose up -d <br/>
+→docker ps (Lista todos container da maquina que está rodando) <br/>
 
 
 
