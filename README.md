@@ -2,7 +2,7 @@
 
 Professores: Felippe Butland  & Rafael Ignaulin
 Curso de SAAS:
-
+<br/><--------------------------------------------------------------------------><br/>
 **Definição**: SaaS é um modelo de entrega de software onde o aplicativo é hospedado na nuvem e acessado via internet.<br/>
 **Acesso**: Os usuários acessam o software através de um navegador web, sem a necessidade de instalação local.<br/>
 **Modelo de Pagamento:** Geralmente baseado em assinatura, com pagamentos mensais ou anuais.<br/>
@@ -13,8 +13,7 @@ Curso de SAAS:
 **Acessibilidade:** Acesso a partir de qualquer lugar com uma conexão à internet, facilitando o trabalho remoto e a colaboração.<br/>
 **Personalização:** Muitas soluções SaaS oferecem opções de personalização e integração com outras ferramentas e serviços.<br/>
 **Exemplos:** Plataformas como Google Workspace, Salesforce, Slack e Microsoft 365.<br/>
-
-
+<br/><--------------------------------------------------------------------------><br/>
 Dicas:<br/>
 get → Busca<br/>
 post → criar<br/>
@@ -23,7 +22,7 @@ delete → deletar<br/>
 Http.cat ( Site para saber os significado dos erros em numeros)<br/>
      <br/>       Aplicativos necessarios para o curso (VSCODE E DOCKER DESKTOP)
 <br/><--------------------------------------------------------------------------><br/>
-                         Passo a passo Instalação <br/>
+                         Passo a passo Instalação 
 <br/><--------------------------------------------------------------------------><br/>
 →Comandos no Terminal VsCode :<br/>
 →docker compose up<br/>
@@ -36,6 +35,7 @@ Http.cat ( Site para saber os significado dos erros em numeros)<br/>
 →npm install -g pnpm <br/>
 →npm install express <br/>
 Assim primeira dependencia instalada<br/>
+<br/><--------------------------------------------------------------------------><br/>
 
 
 
