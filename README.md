@@ -35,6 +35,8 @@ Http.cat ( Site para saber os significado dos erros em numeros)<br/>
 →npm install -g pnpm <br/>
 →npm install express <br/>
 Assim primeira dependencia instalada<br/>
+
+Obs para baixar : Verificar se a pasta node_modules foi criada<br/>
 <br/><--------------------------------------------------------------------------><br/>
 
 Para testar Aplicação é → npm run dev
