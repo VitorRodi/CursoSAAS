@@ -20,10 +20,9 @@ get → Busca<br/>
 post → criar<br/>
 patch → criar<br/>
 delete → deletar<br/>
-<br/>
 Http.cat ( Site para saber os significado dos erros em numeros)<br/>
 
-
+<br/><--------------------------------------------------------------------------><br/>
 Passo a passo VsCode com os Arquivos da Pasta Link --> <br/>
 →Comandos no Terminal VsCode :<br/>
 →docker compose up<br/>
