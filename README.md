@@ -23,7 +23,7 @@ delete → deletar<br/>
 Http.cat ( Site para saber os significado dos erros em numeros)<br/>
      <br/>       Aplicativos necessarios para o curso (VSCODE E DOCKER DESKTOP)
 <br/><--------------------------------------------------------------------------><br/>
-###Passo a passo Instalação###<br/>
+##Passo a passo Instalação##<br/>
 →Comandos no Terminal VsCode :<br/>
 →docker compose up<br/>
 →docker compose up -d ( vai dar um erro(mas é comum))<br/>
