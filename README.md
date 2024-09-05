@@ -33,7 +33,7 @@ Passo a passo VsCode com os Arquivos da Pasta Link --> <br/>
 <br/> Rodar Terminal VsCode<br/>
 →docker-compose up -d <br/>
 →npm install -g pnpm <br/>
-→pnpm install express <br/>
+→npm install express <br/>
 
 
 
