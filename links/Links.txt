@@ -5,3 +5,5 @@ https://drive.google.com/file/d/16rL9u2xggIcMhPBPS0m0Ws2WwZ7XiL-x/view?usp=shari
 https://drive.google.com/drive/folders/1GFxL4S5SLw4CozWzmlV99viqEsqh3-fR?usp=sharing
 
 https://dontpad.com/semana-academica
+
+Obs para baixar : Verificar se a pasta node_modules foi criada
