@@ -24,10 +24,15 @@ delete → deletar<br/>
 Http.cat ( Site para saber os significado dos erros em numeros)<br/>
 
 
-visual studio com os 2 documentos do drive --> <br/>
-→Comandos no vs code:<br/>
+Passo a passo VsCode com os Arquivos da Pasta Link --> <br/>
+→Comandos no Terminal VsCode :<br/>
 →docker compose up<br/>
 →docker compose up ( vai dar um erro(mas é comum))<br/>
+→ npm init -y  (entrada de todas config do projeto)<br/>
+
+→Criar arquivo Main.js<br/>
+Rodar Terminal VsCode<br/>
+→docker-compose up -d <br/>
 
 
 
