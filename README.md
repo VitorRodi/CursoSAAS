@@ -26,7 +26,7 @@ Http.cat ( Site para saber os significado dos erros em numeros)<br/>
 Passo a passo VsCode com os Arquivos da Pasta Link --> <br/>
 →Comandos no Terminal VsCode :<br/>
 →docker compose up<br/>
-→docker compose up ( vai dar um erro(mas é comum))<br/>
+→docker compose up -d ( vai dar um erro(mas é comum))<br/>
 → npm init -y  (entrada de todas config do projeto)<br/>
 
 →Criar arquivo Main.js<br/>
