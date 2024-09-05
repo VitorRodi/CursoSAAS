@@ -23,7 +23,7 @@ delete → deletar<br/>
 Http.cat ( Site para saber os significado dos erros em numeros)<br/>
      <br/>       Aplicativos necessarios para o curso (VSCODE E DOCKER DESKTOP)
 <br/><--------------------------------------------------------------------------><br/>
-Passo a passo VsCode com os Arquivos da Pasta Link --> <br/>
+###Passo a passo Instalação###<br/>
 →Comandos no Terminal VsCode :<br/>
 →docker compose up<br/>
 →docker compose up -d ( vai dar um erro(mas é comum))<br/>
@@ -34,6 +34,9 @@ Passo a passo VsCode com os Arquivos da Pasta Link --> <br/>
 →docker-compose up -d <br/>
 →npm install -g pnpm <br/>
 →npm install express <br/>
+Assim primeira dependencia instalada<br/>
+
+
 
 
 
