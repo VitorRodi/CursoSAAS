@@ -37,7 +37,9 @@ Http.cat ( Site para saber os significado dos erros em numeros)<br/>
 Assim primeira dependencia instalada<br/>
 <br/><--------------------------------------------------------------------------><br/>
 
+Para testar Aplicação é → npm run dev <br/>
 
+<br/><--------------------------------------------------------------------------><br/>
 
 
 
