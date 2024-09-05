@@ -30,7 +30,7 @@ Passo a passo VsCode com os Arquivos da Pasta Link --> <br/>
 → npm init -y  (entrada de todas config do projeto)<br/>
 
 →Criar arquivo Main.js<br/>
-Rodar Terminal VsCode<br/>
+<br/> Rodar Terminal VsCode<br/>
 →docker-compose up -d <br/>
 
 
