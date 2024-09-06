@@ -44,5 +44,13 @@ Para testar Aplicação é → npm run dev
 <--------------------------------------------------------------------------><br/>
 
 
+para baixar o banco(mongo e as bibliotecas)a<br/>
+→npm i mongoose mongodb
 
+
+extensão vscode
+→Thunder Client<br/>
+
+para rodar no thunder
+https://localhost:7564/user/register
 
