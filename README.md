@@ -47,10 +47,16 @@ Para testar Aplicação é → npm run dev
 para baixar o banco(mongo e as bibliotecas)a<br/>
 →npm i mongoose mongodb
 
+Baixar Json<br/>
+npm i jsonwebtoken<br/>
 
-extensão vscode
+
+extensão vscode<br/>
 →Thunder Client<br/>
 
-para rodar no thunder
+para rodar no thunder<br/>
 https://localhost:7564/user/register
+
+download
+npm i bcrypt
 
